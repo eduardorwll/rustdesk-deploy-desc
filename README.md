@@ -1,5 +1,5 @@
 # Descrição de Deploy do RustDesk
---
+
 ### Coleção de scripts e tutoriais de deploy do relay de dos clients do RustDesk.
 
 #### Referências oficiais (Acessadas em 03/12/2025):
